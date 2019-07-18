@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85.599998mm"
+   height="53.98mm"
+   viewBox="0 0 85.599998 53.98"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logoce1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="222.5472"
+     inkscape:cy="127.74181"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="305"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-243.02)">
+    <path
+       style="display:inline;fill:#d5e5ff;stroke:#000000;stroke-width:0.32934454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.9149681,246.03491 v 47.53828 H 81.118717"
+       id="path199"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#2a7fff;stroke:#000000;stroke-width:0.32934454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.9149681,293.57319 15.4407479,-13.52199 6.290678,6.54971 10.007889,-14.78968 4.003158,2.74665 7.434439,-21.55069 3.717216,9.29637 16.298571,-9.50765"
+       id="path201"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.4034977px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36008745"
+       x="22.970619"
+       y="434.44925"
+       id="text229"
+       transform="scale(1.4925987,0.66997243)"><tspan
+         sodipodi:role="line"
+         id="tspan227"
+         x="22.970619"
+         y="434.44925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Resident Evil';-inkscape-font-specification:'Resident Evil';stroke-width:0.36008745">CE</tspan></text>
+  </g>
+</svg>
